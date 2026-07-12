@@ -18,11 +18,7 @@ M ' subhodip<br>full stack(MERN)developer || fighting bugs from India<br>Email M
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subhodip-007&limit=5&theme=flag-india&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Subhodip-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
