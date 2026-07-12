@@ -4,7 +4,7 @@
 
 M ' subhodip<br>full stack(MERN)developer || fighting bugs from India<br>Email Me @ subhodip31xd@gmail.com<br>For collaborations, ideas, or helping me understand why the code worked yesterday.<br><ul><li>Full-Stack (MERN) Developer | Fighting bugs from India 🇮🇳</strong></li> <li>Open to collaborations, crazy ideas, or helping me figure out why the code worked yesterday.</li> <li>Currently working on: Learning Backend (still searching for the time machine back to 2016).</li> <li>Currently learning: MERN, System Design, Cybersecurity, and how to sleep before 3 AM.</li> <li>Looking to collaborate on ideas that sound impossible at first.</li> <li>Looking for help with bugs that magically fix themselves just as I'm about to smash my screen.</li> <li>Ask me about Web Development—where bugs disappear the moment you're about to lose it, and even AI gets tired of answering my endless questions.</li> <li>Pronouns: He/Him</li> <li>Always down for ideas that sound slightly illegal to physics.</li> </ul><br>
 
-## Connect With Me
+## Just incase you want to send a heloo !
 
 <div align="center">
 
@@ -15,7 +15,7 @@ M ' subhodip<br>full stack(MERN)developer || fighting bugs from India<br>Email M
 </div>
 
 
-## Tech Stack
+## Fighting with....
 
 <div align="center">
 
@@ -55,7 +55,7 @@ M ' subhodip<br>full stack(MERN)developer || fighting bugs from India<br>Email M
 
 <div align="center">
 
-## GitHub Statistics
+## 3Am-things...
 <br><br>
 
 <img
