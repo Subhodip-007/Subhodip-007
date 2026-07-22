@@ -13,46 +13,6 @@ M ' subhodip<br>full stack(MERN)developer || fighting bugs from India<br>Email M
 [![GitHub](https://img.shields.io/badge/GitHub-6B7280?style=flat-square&logo=github&logoColor=white)](https://github.com/Subhodip-007)
 
 </div>
-
-
-## Fighting with....
-
-<div align="center">
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-EAF4F4?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-EAF4F4?style=flat-square&logo=typescript&logoColor=3178C6)
-![Redux](https://img.shields.io/badge/Redux-F4EEF9?style=flat-square&logo=redux&logoColor=764ABC)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-EAF7F7?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![Vite](https://img.shields.io/badge/Vite-F7F3FF?style=flat-square&logo=vite&logoColor=646CFF)
-![Framer](https://img.shields.io/badge/Framer-F3F4F6?style=flat-square&logo=framer&logoColor=000000)
-![GSAP](https://img.shields.io/badge/GSAP-F7F9E8?style=flat-square&logo=greensock&logoColor=88CE02)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-F1F8F1?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-F3F4F6?style=flat-square&logo=express&logoColor=000000)
-![Redis](https://img.shields.io/badge/Redis-FCF1F1?style=flat-square&logo=redis&logoColor=DC382D)
-
-### Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-F5F5F5?style=flat-square&logo=vercel&logoColor=000000)
-![Netlify](https://img.shields.io/badge/Netlify-E9FBF8?style=flat-square&logo=netlify&logoColor=00C7B7)
-
-### Design
-
-![Figma](https://img.shields.io/badge/Figma-FDF1ED?style=flat-square&logo=figma&logoColor=F24E1E)
-![Canva](https://img.shields.io/badge/Canva-EDF9FC?style=flat-square&logo=canva&logoColor=00C4CC)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-FDF2EC?style=flat-square&logo=git&logoColor=F05033)
-![GitHub](https://img.shields.io/badge/GitHub-F3F4F6?style=flat-square&logo=github&logoColor=181717)
-![Notion](https://img.shields.io/badge/Notion-F7F7F7?style=flat-square&logo=notion&logoColor=000000)
-
-</div>
-
 <div align="center">
 
 ## 3Am-things...
